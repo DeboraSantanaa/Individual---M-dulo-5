@@ -15,10 +15,10 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 
 ### ✳️ Para executar o Projeto, instale localmente utilizando o NPM <br>
 
- npm init  <br>
- npm install readline-sync <br>
- npm install chalk <br>
- node index.js (utilizado para rodar o código) <br>
+➮ npm init  <br>
+➮ npm install readline-sync <br>
+➮ npm install chalk <br>
+➮ node index.js (utilizado para rodar o código) <br>
 
 Abra o terminal e digite: npm init <br>
 Ainda no terminal digite: node index.js <br>
