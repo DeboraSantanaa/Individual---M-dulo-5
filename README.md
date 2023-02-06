@@ -28,6 +28,7 @@ para rodar o código no próprio terminal
 
 
 ### ✳️ Prévia
+
 ![imagem-node](https://user-images.githubusercontent.com/113525688/217077036-95938251-7141-4d4b-b094-5481b1753121.png)
 
 
