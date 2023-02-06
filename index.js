@@ -4,7 +4,7 @@ import chalk from "chalk";
 const propriedades = [];
 
 // Exibe a mensagem que o usuário precisa inserir para encerrar o programa.
-console.log(chalk.cyan("Para encerrar o programa digite 'sair'."));
+console.log(chalk.cyan("Para encerrar o programa a qualquer momento digite 'sair'."));
 
 // Loop  que vai receber as propriedades do CSS
 while (true) {
