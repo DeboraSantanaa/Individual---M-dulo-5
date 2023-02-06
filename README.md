@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22A71C&width=435&lines=M%C3%B3dulo+5+%E2%80%93+Facilitando+o+dia+a+dia)](https://git.io/typing-svg)
 
-### ✳️ Proposta do Projeto Individual <br>
+### 🟢 Proposta do Projeto Individual <br>
 
 Vamos usar o Node para montar um código que vai receber uma <br>
 lista de propriedades de CSS (ex: background-color, font-size, text-align)  <br> e vai devolver
@@ -13,7 +13,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 <br>
 
 
-### ✳️ Para executar o Projeto, instale localmente utilizando o NPM <br>
+### 🟢 Para executar o Projeto, instale localmente utilizando o NPM <br>
 
 • npm init  <br>
 • npm install readline-sync <br>
@@ -27,7 +27,7 @@ para rodar o código no próprio terminal
 <br>
 
 
-### ✳️ Prévia
+### 🟢 Prévia
 
 ![imagem-node](https://user-images.githubusercontent.com/113525688/217077036-95938251-7141-4d4b-b094-5481b1753121.png)
 
