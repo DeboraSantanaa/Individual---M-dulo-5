@@ -27,6 +27,11 @@ para rodar o código no próprio terminal
 <br>
 
 
+### ✳️ Prévia
+![imagem-node](https://user-images.githubusercontent.com/113525688/217077036-95938251-7141-4d4b-b094-5481b1753121.png)
+
+
+
 ### 🛠️ Ferramentas Utilizadas para a criação do projeto 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank"></a>  <br> 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
